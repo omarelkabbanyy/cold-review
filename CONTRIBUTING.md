@@ -17,7 +17,7 @@ accepting the proposal.
 
 1. Fork the repository.
 2. Edit the readable source in `PROMPT.md`.
-3. Update `PROMPT.min.txt` with the same behavior.
+3. Never edit `PROMPT.min.txt` manually; run the generation script (`python scripts/generate_min_prompt.py`) after changing `PROMPT.md`.
 4. Add or update an example when behavior changes.
 5. Explain the failure mode and why your change fixes it.
 6. Open a pull request.
@@ -44,7 +44,7 @@ accepting the proposal.
 
 ## Pull-request checklist
 
-- [ ] The readable and minified prompts still mean the same thing.
+- [ ] `PROMPT.min.txt` was regenerated automatically.
 - [ ] New certainty is supported by an evidence rule.
 - [ ] The change does not weaken browsing-safety instructions.
 - [ ] The change does not confuse missing evidence with negative evidence.
