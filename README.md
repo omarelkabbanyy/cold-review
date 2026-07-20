@@ -2,7 +2,7 @@
 
 > A second opinion with no emotional investment.
 
-Current version: v1.1.0 beta.
+Current version: v1.1.1 beta.
 
 Cold Review is an evidence-first AI prompt for early-stage businesses, apps,
 products, services, and content projects. Cold Review instructs browsing-capable AI systems to research competitors. It makes similarity scores auditable, separates real differentiation

@@ -10,4 +10,4 @@ Before tagging and publishing a new release, ensure the following requirements a
 - [ ] Evaluation results run and passed against target models according to `EVALUATION.md` requirements.
 - [ ] `README.md` claim accuracy confirmed (no unsupported pass rates or fabricated capabilities).
 - [ ] `CHANGELOG.md` updated with the new version, date, and significant changes.
-- [ ] Release tag created matching the version (e.g., `v1.1.0`).
+- [ ] Release tag created matching the version (e.g., `v1.1.1`).

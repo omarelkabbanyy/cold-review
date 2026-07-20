@@ -2,6 +2,17 @@
 
 All notable changes to Cold Review are documented here.
 
+## 1.1.1 — 2026-07-20
+
+- Restored the explicit no-browsing competitor-research rule.
+- Prevented unverified competitor claims, citations, and similarity scores when browsing is unavailable.
+- Restored stronger competitor-learning and ethical-adaptation instructions.
+- Expanded competitor output to include what can be ethically adapted.
+- Reworked evaluation cases into clear, observable Pass/Fail checks.
+- Corrected an unsupported benefit claim in the illustrative example.
+- Strengthened repository validation for prompt rules and evaluation quality.
+- Clarified how expected evaluation checks must be scored.
+
 ## 1.1.0 — 2026-07-20
 
 - Positioned as a beta release.

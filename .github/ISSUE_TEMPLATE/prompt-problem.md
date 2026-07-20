@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Prompt version:**
-(e.g., v1.1.0)
+(e.g., v1.1.1)
 
 **Model:**
 (e.g., GPT-4o, Claude 3.5 Sonnet)

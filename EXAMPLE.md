@@ -13,7 +13,7 @@ Geographic market: Global
 Problem: Fixed task lists ignore energy and cause people to postpone demanding work
 Current behavior or workaround: People manually move tasks around their calendar
 How the project works: Tempo rearranges a daily task list after the user selects their current energy level
-Why someone would switch: Saves time and reduces end-of-day guilt
+Why someone might switch: The project claims it could save time and reduce unfinished priority tasks; this has not been tested.
 Known alternatives or competitors: Motion, Sunsama, Todoist
 Pricing or business model: $10/month subscription
 Current distribution or acquisition method: None yet
