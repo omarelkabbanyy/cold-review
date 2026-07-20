@@ -1,27 +1,26 @@
 ---
-name: Prompt improvement
-about: Propose a focused improvement to Cold Review
-title: "[Improvement] "
-labels: ""
-assignees: ""
+name: Improvement Proposal
+about: Suggest a clearer rule, output section, or evaluation check
+title: "[PROPOSAL] "
+labels: enhancement
+assignees: ''
+
 ---
 
-## Problem
+**Problem:**
+(What is the current prompt failing to do, or doing poorly?)
 
-What specific weakness does this change address?
+**Proposed change:**
+(What exactly should change in the prompt instructions?)
 
-## Proposed change
+**Reason:**
+(Why is this change necessary?)
 
-What should be added, removed, or rewritten?
+**Example:**
+(Provide a before/after of the expected output)
 
-## Why it is better
+**Evaluation case:**
+(Propose a test case that would verify this improvement)
 
-Explain how the change makes the output more accurate, useful, direct, or verifiable.
-
-## Example
-
-Show the current behavior and the improved behavior using a short project input.
-
-## Tradeoffs
-
-What could become worse, longer, or less reliable because of this change?
+**Tradeoffs:**
+(What is the cost of this change? E.g., longer output, more token usage, potential false negatives)

@@ -2,9 +2,10 @@
 
 > A second opinion with no emotional investment.
 
+Current version: v1.1.0 beta.
+
 Cold Review is an evidence-first AI prompt for early-stage businesses, apps,
-products, services, and content projects. It researches the closest
-competitors, makes similarity scores auditable, separates real differentiation
+products, services, and content projects. Cold Review instructs browsing-capable AI systems to research competitors. It makes similarity scores auditable, separates real differentiation
 from different wording, decodes feedback, and ends with a direct decision:
 **Kill, Pivot, Test, or Build**.
 
@@ -22,6 +23,22 @@ from different wording, decodes feedback, and ends with a direct decision:
   project and the strongest case for it before deciding.
 - **Action over encouragement.** Every review ends with a falsifiable test, a
   kill condition, and one immediate move.
+
+## Limitations
+
+Cold Review is decision support and does not replace:
+- market validation;
+- legal review;
+- financial review;
+- safety review;
+- security review.
+
+Results depend on:
+- model quality;
+- browsing access;
+- source availability;
+- citation accuracy;
+- input quality.
 
 ## Quick start
 
@@ -61,6 +78,10 @@ The more concrete the evidence, the more reliable the verdict.
 
 See [`EXAMPLE.md`](EXAMPLE.md) for a compact illustrative review.
 
+## Validation
+
+The repository checks validate consistency, not model accuracy. Automated scripts ensure prompt parity and the presence of rules, but do not imply a model pass rate.
+
 ## Files
 
 | File | Purpose |
@@ -71,6 +92,13 @@ See [`EXAMPLE.md`](EXAMPLE.md) for a compact illustrative review.
 | [`EXAMPLE.md`](EXAMPLE.md) | Illustrative input and output |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to propose improvements |
 | [`CHANGELOG.md`](CHANGELOG.md) | Version history |
+| [`SECURITY.md`](SECURITY.md) | Security policies and reporting |
+| [`SUPPORT.md`](SUPPORT.md) | Support and usage help |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Code of conduct |
+| [`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md) | Checklist for releases |
+| [`EVALUATION.md`](EVALUATION.md) | Evaluation methodology |
+| `scripts/` | Validation and automation scripts |
+| `evals/` | Evaluation cases and results |
 
 ## Design principle
 
@@ -91,6 +119,4 @@ more builders can find it.
 
 ## License
 
-[MIT](LICENSE). The license remains unchanged until the owner explicitly
-chooses different terms.
-
+Licensed under the MIT License.

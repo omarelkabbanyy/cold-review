@@ -1,31 +1,32 @@
 ---
-name: Prompt problem
-about: Report an unsupported, confusing, unsafe, or unhelpful result
-title: "[Prompt problem] "
-labels: ""
-assignees: ""
+name: Prompt Problem
+about: Report a weak, misleading, or unsupported output
+title: "[BUG] "
+labels: bug
+assignees: ''
+
 ---
 
-## Prompt version
+**Prompt version:**
+(e.g., v1.1.0)
 
-Example: v1.0.0
+**Model:**
+(e.g., GPT-4o, Claude 3.5 Sonnet)
 
-## Model and research access
+**Browsing availability:**
+(Enabled / Disabled)
 
-Which AI did you use? Could it browse the web?
+**Sanitized project input:**
+(Please remove sensitive data before pasting)
 
-## Project input
+**Failure description:**
+(What went wrong?)
 
-Paste the input you gave Cold Review. Remove private or sensitive information.
+**Expected behavior:**
+(What should the prompt have done instead?)
 
-## What happened
+**Evidence:**
+(Provide logs, screenshots, or specific quotes from the output)
 
-Describe the weak, incorrect, or unsupported part of the output.
-
-## What should have happened
-
-Describe the result you expected.
-
-## Evidence
-
-Add sources or a short explanation that lets someone verify the problem.
+**Reproduction result:**
+(Does it happen consistently when retrying?)
