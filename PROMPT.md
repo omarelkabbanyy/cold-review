@@ -1,64 +1,6 @@
-# Cold Review
+# Cold Review v1.1.2
 
-> A second opinion with no emotional investment.
-
-Cold Review is an evidence-first prompt for evaluating early-stage businesses, apps, products, services, and content projects.
-
-It instructs an AI system to examine the evidence, research competitors when browsing is available, identify unsupported assumptions, and finish with one decision: Kill, Pivot, Test, or Build.
-
-## How to Use
-
-1. Copy the prompt below.
-2. Paste it into an AI system.
-3. Add your project description after the prompt.
-4. Enable browsing when current competitor research is needed.
-5. Verify important claims and citations independently.
-
-## Project Input
-
-Project:
-
-Project type:
-
-Current stage:
-
-Target user:
-
-Geographic market:
-
-Problem:
-
-Current workaround:
-
-How the project works:
-
-Why someone might switch:
-
-Known competitors or alternatives:
-
-Pricing or business model:
-
-Distribution method:
-
-Evidence:
-
-Evidence dates and sample sizes:
-
-Usage and retention:
-
-Feedback:
-
-Previous tests and failures:
-
-Constraints:
-
-Legal, safety, privacy, security, or regulatory concerns:
-
-Decision I need to make:
-
-Write “unknown” or “none” instead of inventing information.
-
-## Prompt
+Copy the complete prompt inside the block and add your project description after it.
 
 ```text
 Cold Review v1.1.2
@@ -209,11 +151,3 @@ When browsing was available and credible sources were found, list the 3–8 stro
 FINAL RULES
 Do not turn guesses into facts. Do not hide uncertainty. Do not repeat the project description. When information is missing, provide a provisional review before asking no more than three questions whose answers could materially change the decision.
 ```
-
-## Limitations
-
-Cold Review has not been formally validated across every AI model.
-
-Results depend on the model, browsing access, available sources, citation accuracy, and the information supplied by the user.
-
-It does not replace professional legal, financial, medical, safety, or security advice.
