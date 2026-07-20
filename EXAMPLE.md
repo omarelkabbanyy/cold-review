@@ -13,7 +13,7 @@ Geographic market: Global
 Problem: Fixed task lists ignore energy and cause people to postpone demanding work
 Current behavior or workaround: People manually move tasks around their calendar
 How the project works: Tempo rearranges a daily task list after the user selects their current energy level
-Why someone would switch: Saves time and reduces end-of-day guilt
+Why someone might switch: The project claims it could reduce unfinished priority tasks; this has not been tested.
 Known alternatives or competitors: Motion, Sunsama, Todoist
 Pricing or business model: $10/month subscription
 Current distribution or acquisition method: None yet
@@ -51,18 +51,21 @@ Competitor research could not be performed. Similarity unavailable.
 - What it owns: Needs research.
 - What is meaningfully distinctive: Needs research.
 - What can be learned: Needs research.
+- What can be ethically adapted: Needs research.
 - How that lesson helps the submitted project: Needs research.
 
 **Sunsama**
 - What it owns: Needs research.
 - What is meaningfully distinctive: Needs research.
 - What can be learned: Needs research.
+- What can be ethically adapted: Needs research.
 - How that lesson helps the submitted project: Needs research.
 
 **Todoist**
 - What it owns: Needs research.
 - What is meaningfully distinctive: Needs research.
 - What can be learned: Needs research.
+- What can be ethically adapted: Needs research.
 - How that lesson helps the submitted project: Needs research.
 
 # Best Case Against
@@ -77,7 +80,7 @@ Energy-aware rearrangement for freelancers may be distinctive, but without compe
 # Evidence Audit
 - "People liked the concept": Fact. Stated interest in interviews.
 - "Four said they already move tasks manually": Fact. Evidence of a workaround.
-- "Tempo saves time and reduces guilt": Hope. Needs behavioral proof.
+- "Tempo claims it could reduce unfinished tasks": Hope. Needs behavioral proof.
 
 # Feedback Decoded
 - “I like it” is politeness, not behavioral evidence.

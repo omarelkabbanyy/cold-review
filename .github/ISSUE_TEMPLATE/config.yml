@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Support & Usage
-    url: https://github.com/omarelkabbanyy/cold-review/blob/main/SUPPORT.md
-    about: Read this before opening an issue
-  - name: Report a Security Vulnerability
-    url: https://github.com/omarelkabbanyy/cold-review/security/advisories/new
-    about: Privately report prompt injections or safety bypasses
